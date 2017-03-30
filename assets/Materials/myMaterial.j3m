@@ -1,0 +1,13 @@
+Material My Material : Common/MatDefs/Light/Lighting.j3md {
+     MaterialParameters {
+        HighQuality : false
+        SteepParallax : false
+        UseMaterialColors : false
+        PackedNormalParallax : false
+        WardIso : false
+     }
+    AdditionalRenderState {
+      Wireframe On
+      DepthWrite Off
+    }
+}
