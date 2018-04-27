@@ -1,5 +1,5 @@
 # Arkanoid-Like-Game-Assignment
-developed by JMonkey Engine_ Description: break the all bricks(balls) 
+developed by JMonkey Engine_ Description: break the all bricks(balls) Hopefully this can be finised during the summer 
 ## the screenshot of the start menu
 ![screenshot 2](https://user-images.githubusercontent.com/26280459/27871825-cbadb510-619e-11e7-86cd-7e1f08f3ac7b.png)
 ## the 3D object modeling (rendering texture ..)
